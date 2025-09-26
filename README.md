@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Web Development Projects**
 
-- 💬 Ask me about **Front-End Development, Back-End Basics with-Node.js & MongoDB, Building Full-Stack Apps using-Next.js & Firebase, Using AI tools in web development, Responsive UI Design & Optimization, Version Control with-Git & GitHub**
+- 💬 Ask me about **Front-End Development, Back-End Basics with Node.js & MongoDB, Building Full-Stack Apps using Next.js & Firebase, Using AI tools in web development, Responsive UI Design & Optimization, Version Control with Git & GitHub**
 
 - 📫 How to reach me **eliashossainrafe72@gmail.com**
 
