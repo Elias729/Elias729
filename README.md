@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Developer from Bangladesh 🇧🇩 | Future Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%7C+MERN+Stack+Explorer;Transforming+Ideas+into+Digital+Reality+✨;Building+InvoLuck+🚀;Code+%2B+Content+%3D+Elias+Hossain+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Transforming+Ideas+into+Digital+Reality+✨;Building+InvoLuck+🚀;Code+%2B+Content+%3D+Elias+Hossain+⚡" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elias729&label=Profile%20views&color=0e75b6&style=flat" alt="elias729" /> </p>
