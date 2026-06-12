@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=🛒+Shopify+Developer+%7C+8%2B+Months+%26+Counting;⚡+Custom+Themes+%7C+Liquid+%7C+Storefront+API;🚀+React+•+Next.js+•+Node.js+•+MongoDB;✨+Turning+Ideas+into+Premium+Digital+Stores" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=Shopify+Developer+%7C+8%2B+Months+%26+Counting;Custom+Themes+%7C+Liquid+%7C+Storefront+API;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Turning+Ideas+into+Premium+Digital+Stores)](https://git.io/typing-svg)
 
 <br/><br/>
 
