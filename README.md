@@ -139,7 +139,7 @@ const elias = {
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elias729&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elias729&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true&custom_title=Elias%20Hossain%20Rafi's%20Contribution%20Graph" width="95%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
